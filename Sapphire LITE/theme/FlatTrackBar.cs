@@ -7,9 +7,11 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FlatUI
-{
-	[DefaultEvent("Scroll")]
+namespace FlatUI {
+
+    // All of the theme folder was taken from a now deleted repo from years ago.
+
+    [DefaultEvent("Scroll")]
 	public class FlatTrackBar : Control
 	{
 		private int W;

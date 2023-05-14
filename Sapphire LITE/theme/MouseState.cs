@@ -1,6 +1,9 @@
 ﻿namespace FlatUI
 {
-	public enum MouseState : byte
+
+    // All of the theme folder was taken from a now deleted repo from years ago.
+
+    public enum MouseState : byte
 	{
 		None = 0,
 		Over = 1,

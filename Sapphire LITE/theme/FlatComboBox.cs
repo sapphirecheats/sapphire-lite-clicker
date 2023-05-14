@@ -7,7 +7,10 @@ using System.Windows.Forms;
 
 namespace FlatUI {
 	public class FlatComboBox : ComboBox {
-		private int W;
+
+        // All of the theme folder was taken from a now deleted repo from years ago.
+
+        private int W;
 		private int H;
 		private int _StartIndex = 0;
 		private int x;

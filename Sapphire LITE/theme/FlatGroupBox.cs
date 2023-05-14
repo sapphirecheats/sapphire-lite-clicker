@@ -5,9 +5,11 @@ using System.Drawing.Text;
 using System.Windows.Forms;
 
 namespace FlatUI {
-	public class FlatGroupBox : ContainerControl
-	{
-		private int W;
+	public class FlatGroupBox : ContainerControl {
+
+        // All of the theme folder was taken from a now deleted repo from years ago.
+
+        private int W;
 		private int H;
 		private bool _ShowText = true;
 

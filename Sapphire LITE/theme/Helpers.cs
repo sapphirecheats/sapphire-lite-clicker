@@ -3,9 +3,11 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace FlatUI
-{
-	public static class Helpers
+namespace FlatUI {
+
+    // All of the theme folder was taken from a now deleted repo from years ago.
+
+    public static class Helpers
 	{
 
 		public static Color FlatColor = Color.FromArgb(38, 38, 38);
