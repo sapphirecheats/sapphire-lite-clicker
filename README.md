@@ -1,5 +1,5 @@
 # Information
-Free C# open-sourced Minecraft auto clicker with standard features and easily expandable.
+Free C# open-sourced Minecraft auto clicker with standard features and easy expansion.
 
 Officially compatible with **Vanilla, LabyMod, Forge, Badlion Client** and **Lunar Client**.
 
