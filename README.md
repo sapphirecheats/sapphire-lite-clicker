@@ -1,3 +1,6 @@
+# Download
+Download the direct executable file [HERE](https://github.com/sapphirecheats/sapphire-lite-clicker/releases/download/Release/Sapphire.LITE.exe)
+
 # Information
 Free C# open-sourced Minecraft auto clicker with standard features and easy expansion.
 
