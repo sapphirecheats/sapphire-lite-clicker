@@ -1,12 +1,12 @@
 # Information
-C# Free, Open-sourced Minecraft clicker, has standard features & is easy to expand upon.
+Free C# open-sourced Minecraft auto clicker with standard features and easily expandable.
 
-Officially compatible with Vanilla, LabyMod, Forge, Badlion Client & Lunar Client.
+Officially compatible with **Vanilla, LabyMod, Forge, Badlion Client** and **Lunar Client**.
 
 ## About our other products
 If you would like to try our paid software, check out our site [here](https://sapphire.ac) or our discord [here](https://discord.sapphire.ac).
 
-All of our free software is developed with the community in mind to either supply free alternatives or a way to introduce new developers to a useful code environment. With that being said, we have to sustain ourselves so the free products we release are very limited so checking out our paid software is much appreciated.
+All of our free software is developed with the community in mind to either supply free alternatives or a way to introduce new developers to a useful development environment. We deeply value any interest in our products. While we do offer limited functionality in our free software, we encourage users to explore our paid options to unlock the premium experiences we offer. Your support allows us to continue developing innovative solutions and maintain our commitment to quality.
 
 ## Compiling
-Due to licensing issues, GunaUI could not be directly released in this repo. You'll need to obtain & import GunaUI to compile or remove the ui elements using GunaUI.
+Due to licensing issues, GunaUI could not be directly released in this repository. You'll need to obtain and import GunaUI to compile or remove the UI elements using GunaUI.
